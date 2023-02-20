@@ -4,4 +4,6 @@ public class AmazonTest_one {
     private int c;
     private String ccc;
     private String dfdfd;
+
+    private String one;
 }
